@@ -1,0 +1,5 @@
+/.idea
+web-customer-tracker.iml
+/out
+/lib
+web/WEB-INF/lib
